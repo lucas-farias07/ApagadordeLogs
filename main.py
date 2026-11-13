@@ -3,9 +3,9 @@ import datetime
 
 # Define your database connection parameters
 conn = psycopg2.connect(
-        dbname="TesteApagador",
-        user="postgres",
-        password="controle34",
+        dbname="Teste Aprovador",
+        user="XX",
+        password="XX",
         host="localhost",
         port="5432"
 )
